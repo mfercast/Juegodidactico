@@ -1,0 +1,16 @@
+Hola! Bienvenido a tu curso de practica para Matematicas 1. 
+
+En esta plataforma podras poner a prueba y mejorar tus habilidades en matematicas de una manera divertida
+a traves de 2 juegos que podras repetir las veces que quieras.
+
+    JUEGO 1: El primer juego te ayudara a distinguir numeros grandes de numeros pequenos. Te mostrara dos numeros
+             diferentes y tendras que elegir cual es el mayor y cual es el menor. 
+
+    JUEGO 2: En el segundo juego necesitaras jugar con un amigo o amiga. Cada uno tirara un dado virtual, 
+             el numero resultante lo multiplicaras con un numero entre 1 y 6 que no podras volver a usar. 
+             Ambos lanzaran el dado 6 veces y, al terminar, quien haya acumulado el numero mas alto 
+             ganara el juego.
+             
+             Recuerda que solo puedes multiplicar tu resultado por un numero en especifico entre 1 y 6 
+             una vez; no puedes repetir el numero. Asi que se cuidadoso con tus multiplicaciones para
+             conseguir el numero mas alto.
