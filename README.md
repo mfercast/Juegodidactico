@@ -1,1 +1,1 @@
-# Juegodidactico
+# Juego didáctico
